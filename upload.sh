@@ -17,4 +17,4 @@ echo Uploading files
 echo
 ssh quinoaa.moe "rm -rf /var/www/quinoaa.moe/public;mkdir /var/www/quinoaa.moe/public"
 
-scp build/* quinoaa.moe:/var/www/quinoaa.moe/public/
+scp -r build/* quinoaa.moe:/var/www/quinoaa.moe/public/
