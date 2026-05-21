@@ -1,0 +1,12 @@
+{
+  "name": "quinoaa.moe",
+  "version": "1.0.0",
+  "repository": "git@github.com:quinoaa/quinoaa.moe",
+  "author": "quinoaa <me@quinoaa.moe>",
+  "license": "I like kitty",
+  "private": true,
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "sass": "^1.99.0"
+  }
+}

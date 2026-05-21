@@ -1,0 +1,10 @@
+.vscode
+build
+.cache
+out
+node_modules
+yarn.lock
+
+# how is it called ???
+package_lock.json
+package.json.lock

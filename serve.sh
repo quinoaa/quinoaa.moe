@@ -1,0 +1,1 @@
+yarn run eleventy --serve --input=src --output=out
