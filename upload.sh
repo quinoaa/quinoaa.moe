@@ -10,7 +10,7 @@ yarn run eleventy --input=src --output=build
 echo
 echo Compressing files
 echo
-gzip -k -9 build/**
+gzip -r -k -9 build/**
 
 echo
 echo Uploading files
